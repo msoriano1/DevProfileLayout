@@ -14,7 +14,7 @@
                                                 android:orientation="horizontal"
                                                 app:layout_constraintGuide_percent="0.48"/>
     <ImageView
-            android:layout_width="wrap_content"
+            android:layout_width="0dp"
             android:layout_height="150dp" app:srcCompat="@drawable/devslopesbanner"
             android:id="@+id/banner"
             app:layout_constraintStart_toStartOf="parent"
